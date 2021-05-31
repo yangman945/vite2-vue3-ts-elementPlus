@@ -1,10 +1,9 @@
 <template>
-    <div>这里是首页</div>
+    <div>
+        这里是首页
+    </div>
 </template>
 <script lang="ts">
 </script>
 <style lang="scss" scoped>
-div{
-    background-color: #ccc;
-}
 </style>
